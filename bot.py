@@ -641,7 +641,7 @@ def main():
     if TOKEN == "YOUR_BOT_TOKEN_HERE":
         print("ERROR: Please add your actual bot token to config.json")
         print("Get your token from @BotFather on Telegram")
-        print("Edit config.json and replace 'YOUR_BOT_TOKEN_HERE' with your token")
+        print("Edit config.json" and replace "8327175937:AAGoWZPlDM_UX7efZv6_7vJMHDsrZ3-EyIA")
         input("Press Enter to exit...")
         return
     
